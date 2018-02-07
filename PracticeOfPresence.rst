@@ -2,7 +2,11 @@
                       The Practice of the Presence of God
 ===============================================================================
 
-
+:Title: The Practice of the Presence of God
+:Author: Brother Lawrence
+:Copyright: Public domain
+:Publisher: \H. R. Allenson, Ltd.
+:Date: November 1906
 
 
 .. role:: sc
@@ -1189,7 +1193,7 @@ Brother, etc.
 SIXTH LETTER
 -------------------------------------------------------------------------------
 
-    .. class: align-center
+    .. class:: align-center
 
         :sc:`To The Reverend Father`
 
